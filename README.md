@@ -7,4 +7,5 @@ It is a project that aims to detect and recongnize faces in images with mask and
 ## Dataset
 
 Data set is a collection of images of faces with and without masks.
+
 link: https://www.kaggle.com/sumansid/facemask-dataset
